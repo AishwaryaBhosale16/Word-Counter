@@ -56,3 +56,13 @@ This is a **GUI-based Word Counter** application built using **Java Swing**. It 
 ## Code Structure
 WordCounter.java   -> Main class with GUI and word counting functionality.
 
+## Contributing
+Contributions are welcome! You can:
+
+- Improve GUI layout and design
+- Add support for multiple file formats
+- Include options to export results to a file
+
+
+
+
