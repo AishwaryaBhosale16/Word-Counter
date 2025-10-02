@@ -50,3 +50,9 @@ This is a **GUI-based Word Counter** application built using **Java Swing**. It 
 5. Run the application:
    ```bash
    java WordCounter
+
+
+---
+## Code Structure
+WordCounter.java   -> Main class with GUI and word counting functionality.
+
